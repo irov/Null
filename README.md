@@ -22,7 +22,7 @@ pod 'Null'
 
 ## Author
 
-trbrmrdr@gmail.com, trbrmrdr@gmail.com
+irov13@mail.ru, trbrmrdr@gmail.com
 
 ## License
 

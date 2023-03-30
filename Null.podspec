@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/irov/Null'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'trbrmrdr@gmail.com' => 'trbrmrdr@gmail.com' }
+  s.author           = { 'irov' => 'irov13@mail.ru', 'trbrmrdr@gmail.com' => 'trbrmrdr@gmail.com' }
   s.source           = { :git => 'https://github.com/irov/Null.git', :tag => s.version.to_s }
 
   s.platform = :osx
