@@ -22,22 +22,13 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/irov/Null'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'irov' => 'irov13@mail.ru', 'trbrmrdr@gmail.com' => 'trbrmrdr@gmail.com' }
-  s.source           = { :git => 'https://github.com/irov/Null.git', :tag => s.version.to_s }
+  s.source           = { :git => 'http://github.com/irov/Null.git', :tag => s.version.to_s }
 
   s.platform = :osx
   s.osx.deployment_target = "10.10"
   s.ios.deployment_target  = "10.0"
 
   s.source_files = 'Null/Classes/**/*'
-
-  # s.resource_bundles = {
-  #   'Null' => ['Null/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'Cocoa'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
